@@ -1,0 +1,9 @@
+name: dice-roll
+
+services:
+  front:
+    image: habib80246/dice-roll-game
+    container_name: roll-dice-game
+    ports:
+      - '8080:80' #You can change the 8080 port if you want
+    restart: unless-stopped
