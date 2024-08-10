@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/52821188-66d1-4bc5-9386-4696f08c4950
 
 1. **Clone the repository:**
     ```sh
-    git clone  https://github.com/codewith-habib/Dice-Roll-Game.git cd Dice-Roll-Game.git
+    git clone https://github.com/codewith-habib/Dice-Roll-Game.git
     cd Dice-Roll-Game
     ```
 
