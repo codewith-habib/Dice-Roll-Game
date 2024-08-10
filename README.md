@@ -61,4 +61,4 @@ https://github.com/user-attachments/assets/064415e7-e357-484b-bc89-dbbd26833e27
 
 If you want to master Docker and learn more about containerization, don't forget to check out my YouTube channel where I teach a complete Docker course
 
-`[Subscribe to DevMastery on YouTube]((https://www.youtube.com/@devmastery46)`
+[Subscribe to DevMastery on YouTube](https://www.youtube.com/@devmastery46)
