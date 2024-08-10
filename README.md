@@ -1,7 +1,8 @@
 # Dice Roll Game
 Dice Roll Game where you have to guess any number, if your number is equivalent to what you thought then you will get a number, and if not then you will get a negative 1 number. 
 
-https://github.com/user-attachments/assets/52821188-66d1-4bc5-9386-4696f08c4950 
+
+https://github.com/user-attachments/assets/064415e7-e357-484b-bc89-dbbd26833e27
 
 
 ## Prerequisites
